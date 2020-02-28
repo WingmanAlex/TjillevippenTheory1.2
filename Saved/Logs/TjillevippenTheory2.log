@@ -950,3 +950,38 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.28-11.27.27:516][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.02.28-11.27.27:519][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
 [2020.02.28-11.27.27:566][891]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.02.28-11.28.28:808][854]LogActorFactory: Actor Factory created Cube
+[2020.02.28-11.28.29:018][869]LogActorFactory: Actor Factory created Cube
+[2020.02.28-11.29.02:951][767]LogSlate: Window 'Select Path' being destroyed
+[2020.02.28-11.29.03:027][767]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/TestHouse.TestHouse
+[2020.02.28-11.29.03:250][767]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.02.28-11.29.04:182][767]LogRenderer: Reallocating scene render targets to support 1228x712 Format 10 NumSamples 1 (Frame:1).
+[2020.02.28-11.29.15:111][608]LogSlate: Took 0.007852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.28-11.29.37:934][771]LogEditorTransaction: Undo Set Scale
+[2020.02.28-11.29.38:183][777]Cmd: TRANSACTION UNDO
+[2020.02.28-11.29.38:183][777]LogEditorTransaction: Undo Set Scale
+[2020.02.28-11.30.07:572][590]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.28-11.30.52:196][883]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.28-11.31.01:885][794]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.28-11.31.12:945][867]Cmd: DELETE
+[2020.02.28-11.31.12:945][867]Cmd: ACTOR DELETE
+[2020.02.28-11.31.12:950][867]LogEditorActor: Deleted Actor: TestHouse_C
+[2020.02.28-11.31.12:988][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2020.02.28-11.31.12:989][867]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2020.02.28-11.31.16:055][193]BlueprintLog: New page: Compile TestHouse
+[2020.02.28-11.31.16:267][193]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.28-11.31.17:251][294]LogSlate: Window 'TestHouse' being destroyed
+[2020.02.28-11.31.17:254][294]LogSlate: Window 'TestHouse' being destroyed
+[2020.02.28-11.31.17:273][294]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-11.31.17:273][294]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.28-11.32.18:191][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.28-11.35.04:832][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.02.28-11.35.05:062][885]LogSavePackage: Moving 'D:/UE Projects/TjillevippenTheory2/Saved/FirstPersonExampleMap_Auto19A2BE4684E2CF713D8DF3D931AFF58F2.tmp' to 'D:/UE Projects/TjillevippenTheory2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.02.28-11.35.05:064][885]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.269
+[2020.02.28-11.35.05:064][885]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.269
+[2020.02.28-11.35.05:065][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/TestHouse] ([1] browsable assets)...
+[2020.02.28-11.35.05:078][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/TestHouse.TestHouse]
+[2020.02.28-11.35.05:078][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/TestHouse]
+[2020.02.28-11.35.05:078][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/TestHouse" FILE="D:/UE Projects/TjillevippenTheory2/Saved/Autosaves/Game/BP/TestHouse_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.28-11.35.05:099][885]LogSavePackage: Moving 'D:/UE Projects/TjillevippenTheory2/Saved/TestHouse_Auto1E3C13DD444F838D1B4909AA420C8C57C.tmp' to 'D:/UE Projects/TjillevippenTheory2/Saved/Autosaves/Game/BP/TestHouse_Auto1.uasset'
+[2020.02.28-11.35.05:099][885]LogFileHelpers: Auto-saving content packages took 0.035
