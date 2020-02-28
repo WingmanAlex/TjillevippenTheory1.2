@@ -985,3 +985,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.28-11.35.05:078][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/TestHouse" FILE="D:/UE Projects/TjillevippenTheory2/Saved/Autosaves/Game/BP/TestHouse_Auto1.uasset" SILENT=false AUTOSAVING=true
 [2020.02.28-11.35.05:099][885]LogSavePackage: Moving 'D:/UE Projects/TjillevippenTheory2/Saved/TestHouse_Auto1E3C13DD444F838D1B4909AA420C8C57C.tmp' to 'D:/UE Projects/TjillevippenTheory2/Saved/Autosaves/Game/BP/TestHouse_Auto1.uasset'
 [2020.02.28-11.35.05:099][885]LogFileHelpers: Auto-saving content packages took 0.035
+[2020.02.28-11.45.14:729][938]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.28-11.45.16:129][ 69]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.02.28-11.45.27:211][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2020.02.28-11.45.57:894][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.28-11.45.58:161][913]LogSavePackage: Moving 'D:/UE Projects/TjillevippenTheory2/Saved/FirstPersonExampleMap_Auto2DDA3D1DF43E88805E1B56F9C712FF5D2.tmp' to 'D:/UE Projects/TjillevippenTheory2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.02.28-11.45.58:178][913]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.317
+[2020.02.28-11.45.58:178][913]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.317
