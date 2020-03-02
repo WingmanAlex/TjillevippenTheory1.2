@@ -672,3 +672,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.02-10.02.30:599][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.03.02-10.02.30:601][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
 [2020.03.02-10.02.30:666][152]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.03.02-10.06.27:373][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBps/Bp_SwitchCam.Bp_SwitchCam
+[2020.03.02-10.06.27:557][403]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2020.03.02-10.06.28:195][403]LogSlate: Took 0.003449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.02-10.06.28:230][404]LogSlate: Took 0.003120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.02-10.07.55:414][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.03.02-10.08.14:296][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.03.02-10.08.14:297][ 78]LogMetaData: Removing '/Game/MyBps/Bp_FirstPersonCam.SKEL_Bp_FirstPersonCam_C' ref from Metadata '/Game/MyBps/Bp_Firstperson_cam.PackageMetaData'
+[2020.03.02-10.08.14:297][ 78]LogMetaData: Removing '/Game/MyBps/Bp_FirstPersonCam.Bp_FirstPersonCam_C' ref from Metadata '/Game/MyBps/Bp_Firstperson_cam.PackageMetaData'
+[2020.03.02-10.08.14:332][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBps/Bp_FirstPersonCam" FILE="../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/MyBps/Bp_FirstPersonCam.uasset" SILENT=true
+[2020.03.02-10.08.14:343][ 78]LogSavePackage: Moving '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Saved/Bp_FirstPersonCamD9AAE9E84826C2B5C072B2BA0510860C.tmp' to '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/MyBps/Bp_FirstPersonCam.uasset'
+[2020.03.02-10.08.14:490][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.03.02-10.08.14:523][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.02-10.08.14:548][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.03.02-10.08.14:597][ 78]AssetCheck: New page: Asset Save: Bp_FirstPersonCam
+[2020.03.02-10.08.14:597][ 78]LogContentValidation: Display: Validating Blueprint /Game/MyBps/Bp_FirstPersonCam.Bp_FirstPersonCam
+[2020.03.02-10.08.15:945][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.03.02-10.08.16:121][229]LogSavePackage: Moving '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Saved/FirstPersonExampleMap97D053DC4A1B8A46FB3782BE1536F719.tmp' to '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.03.02-10.08.16:554][229]LogSavePackage: Moving '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Saved/FirstPersonExampleMap_BuiltDataB54A3B60413157CA317A53A13550C3BF.tmp' to '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.03.02-10.08.16:566][229]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.02-10.08.16:566][229]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.03.02-10.08.16:566][229]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.03.02-10.11.06:524][214]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBps/Bp_FirstPersonCam.Bp_FirstPersonCam
+[2020.03.02-10.11.16:190][304]LogSlate: Took 0.003297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.02-10.11.25:697][429]BlueprintLog: New page: Compile Bp_FirstPersonCam
+[2020.03.02-10.11.25:877][429]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.03.02-10.11.26:575][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBps/Bp_FirstPersonCam" FILE="../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/MyBps/Bp_FirstPersonCam.uasset" SILENT=true
+[2020.03.02-10.11.26:591][509]LogSavePackage: Moving '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Saved/Bp_FirstPersonCam5F54C7184E400E606BB03183096E2798.tmp' to '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/MyBps/Bp_FirstPersonCam.uasset'
+[2020.03.02-10.11.26:600][509]AssetCheck: New page: Asset Save: Bp_FirstPersonCam
+[2020.03.02-10.11.26:600][509]LogContentValidation: Display: Validating Blueprint /Game/MyBps/Bp_FirstPersonCam.Bp_FirstPersonCam
+[2020.03.02-10.12.21:917][ 31]BlueprintLog: New page: Compile Bp_FirstPersonCam
+[2020.03.02-10.12.22:095][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.03.02-10.13.16:179][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBps/Bp_FirstPersonCam" FILE="../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/MyBps/Bp_FirstPersonCam.uasset" SILENT=true
+[2020.03.02-10.13.16:191][509]LogSavePackage: Moving '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Saved/Bp_FirstPersonCam513CC0C04F1C9DA95E234BA45A0A6E65.tmp' to '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/MyBps/Bp_FirstPersonCam.uasset'
+[2020.03.02-10.13.16:200][509]AssetCheck: New page: Asset Save: Bp_FirstPersonCam
+[2020.03.02-10.13.16:200][509]LogContentValidation: Display: Validating Blueprint /Game/MyBps/Bp_FirstPersonCam.Bp_FirstPersonCam
+[2020.03.02-10.14.11:681][980]LogSlate: Window 'Delete Variable' being destroyed
+[2020.03.02-10.14.28:058][927]BlueprintLog: New page: Compile Bp_FirstPersonCam
+[2020.03.02-10.14.28:240][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.03.02-10.14.28:579][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBps/Bp_FirstPersonCam" FILE="../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/MyBps/Bp_FirstPersonCam.uasset" SILENT=true
+[2020.03.02-10.14.28:592][963]LogSavePackage: Moving '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Saved/Bp_FirstPersonCam2574FF46435D129F8DF1E889C2CF36F7.tmp' to '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/MyBps/Bp_FirstPersonCam.uasset'
+[2020.03.02-10.14.28:601][963]AssetCheck: New page: Asset Save: Bp_FirstPersonCam
+[2020.03.02-10.14.28:601][963]LogContentValidation: Display: Validating Blueprint /Game/MyBps/Bp_FirstPersonCam.Bp_FirstPersonCam
+[2020.03.02-10.14.32:572][428]BlueprintLog: New page: Compile Bp_FirstPersonCam
+[2020.03.02-10.14.32:751][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.03.02-10.14.33:168][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBps/Bp_FirstPersonCam" FILE="../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/MyBps/Bp_FirstPersonCam.uasset" SILENT=true
+[2020.03.02-10.14.33:178][474]LogSavePackage: Moving '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Saved/Bp_FirstPersonCam87593AC44F3015B7A78309B781BCC374.tmp' to '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/MyBps/Bp_FirstPersonCam.uasset'
+[2020.03.02-10.14.33:187][474]AssetCheck: New page: Asset Save: Bp_FirstPersonCam
+[2020.03.02-10.14.33:187][474]LogContentValidation: Display: Validating Blueprint /Game/MyBps/Bp_FirstPersonCam.Bp_FirstPersonCam
