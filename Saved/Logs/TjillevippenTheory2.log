@@ -15602,3 +15602,226 @@ Make sure 'BP_SpiderPatrol_Wall_Level_C' has been compiled for  Activate AI Move
 [2020.03.05-15.34.42:847][320]LogContentValidation: Display: Validating Blueprint /Game/BP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
 [2020.03.05-15.34.42:847][320]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/BP_Spider.BP_Spider
 [2020.03.05-15.34.42:847][320]LogContentValidation: Display: Validating Blueprint /Game/BP/AI/BP_SpiderPatrol_Wall_Level.BP_SpiderPatrol_Wall_Level
+[2020.03.05-15.36.12:437][300]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/FirstPersonBP/Blueprints/THEFPC.THEFPC
+[2020.03.05-15.37.20:876][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.37.20:900][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld' with GeneratedClass '/Game/Maps/AWholeNewWorld.AWholeNewWorld_C' with ClassGeneratedBy '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld'
+[2020.03.05-15.37.20:900][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.37.20:900][ 13]PIE: New page: PIE session: AWholeNewWorld (5 Mar 2020, 17:37:20)
+[2020.03.05-15.37.20:900][ 13]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AWholeNewWorld
+[2020.03.05-15.37.20:937][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037340s)
+[2020.03.05-15.37.20:938][ 13]LogAIModule: Creating AISystem for world AWholeNewWorld
+[2020.03.05-15.37.20:938][ 13]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2020.03.05-15.37.20:938][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AWholeNewWorld.AWholeNewWorld to /Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld (0.038273s)
+[2020.03.05-15.37.20:974][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.03.05-15.37.20:975][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.05-15.37.20:975][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.05-15.37.20:975][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.05-15.37.20:975][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.05-15.37.20:975][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.05-15.37.20:975][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.05-15.37.20:975][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.05-15.37.20:975][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.05-15.37.20:975][ 13]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.05-15.37.20:975][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.05-15.37.20:987][ 13]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.05-15.37.20:987][ 13]LogAudioMixer: Display: Name: LEN T24i-10 (2- NVIDIA High Definition Audio)
+[2020.03.05-15.37.20:987][ 13]LogAudioMixer: Display: Is Default: Yes
+[2020.03.05-15.37.20:987][ 13]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.05-15.37.20:987][ 13]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.05-15.37.20:987][ 13]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.05-15.37.20:987][ 13]LogAudioMixer: Display: Channel Order:
+[2020.03.05-15.37.20:987][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.05-15.37.20:987][ 13]LogAudioMixer: Display: 1: FrontRight
+[2020.03.05-15.37.20:995][ 13]LogAudioMixer: Display: Using Audio Device LEN T24i-10 (2- NVIDIA High Definition Audio)
+[2020.03.05-15.37.20:996][ 13]LogInit: FAudioDevice initialized.
+[2020.03.05-15.37.21:001][ 13]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.05-15.37.21:005][ 13]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent295'' but it has ComplexAsSimple collision.
+[2020.03.05-15.37.21:006][ 13]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent281'' but it has ComplexAsSimple collision.
+[2020.03.05-15.37.21:006][ 13]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent276'' but it has ComplexAsSimple collision.
+[2020.03.05-15.37.21:008][ 13]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent198'' but it has ComplexAsSimple collision.
+[2020.03.05-15.37.21:015][ 13]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld up for play (max tick rate 0) at 2020.03.05-16.37.21
+[2020.03.05-15.37.21:017][ 13]LogWorld: Bringing up level for play took: 0.015275
+[2020.03.05-15.37.21:017][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.03.05-15.37.21:020][ 13]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_AWholeNewWorld 0,384
+[2020.03.05-15.37.21:020][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld' with GeneratedClass '/Game/Maps/AWholeNewWorld.AWholeNewWorld_C' with ClassGeneratedBy '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld'
+[2020.03.05-15.37.53:233][477]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-15.37.53:234][477]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-15.37.53:234][477]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld' with GeneratedClass '/Game/Maps/AWholeNewWorld.AWholeNewWorld_C' with ClassGeneratedBy '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld'
+[2020.03.05-15.37.53:234][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.37.53:234][477]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AWholeNewWorld
+[2020.03.05-15.37.53:234][477]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-15.37.53:234][477]LogWorld: UWorld::CleanupWorld for AWholeNewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-15.37.53:237][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.05-15.37.53:246][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.37.53:246][477]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld' with GeneratedClass '/Game/Maps/AWholeNewWorld.AWholeNewWorld_C' with ClassGeneratedBy '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld'
+[2020.03.05-15.37.53:251][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.05-15.37.53:285][477]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-15.37.53:288][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.37.53:292][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.03.05-15.37.53:349][478]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.03.05-15.37.56:731][753]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2020.03.05-15.38.01:029][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2020.03.05-15.38.01:356][  4]LogSavePackage: Moving '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Saved/AWholeNewWorldF5EF770743996D039E0C93A35851FE41.tmp' to '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/Maps/AWholeNewWorld.umap'
+[2020.03.05-15.38.01:603][  4]LogSavePackage: Moving '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Saved/AWholeNewWorld_BuiltData2016A3B143F0D7DF17963690006C0DE0.tmp' to '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/Maps/AWholeNewWorld_BuiltData.uasset'
+[2020.03.05-15.38.01:615][  4]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.05-15.38.01:615][  4]LogContentValidation: Display: Validating World /Game/Maps/AWholeNewWorld.AWholeNewWorld
+[2020.03.05-15.38.01:615][  4]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/AWholeNewWorld_BuiltData.AWholeNewWorld_BuiltData
+[2020.03.05-15.38.03:084][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-15.38.03:105][ 89]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld' with GeneratedClass '/Game/Maps/AWholeNewWorld.AWholeNewWorld_C' with ClassGeneratedBy '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld'
+[2020.03.05-15.38.03:105][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-15.38.03:105][ 89]PIE: New page: PIE session: AWholeNewWorld (5 Mar 2020, 17:38:03)
+[2020.03.05-15.38.03:105][ 89]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_AWholeNewWorld
+[2020.03.05-15.38.03:143][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037602s)
+[2020.03.05-15.38.03:144][ 89]LogAIModule: Creating AISystem for world AWholeNewWorld
+[2020.03.05-15.38.03:144][ 89]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2020.03.05-15.38.03:144][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/AWholeNewWorld.AWholeNewWorld to /Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld (0.038603s)
+[2020.03.05-15.38.03:179][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.03.05-15.38.03:180][ 89]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.05-15.38.03:180][ 89]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.05-15.38.03:180][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.05-15.38.03:180][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.05-15.38.03:180][ 89]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.05-15.38.03:180][ 89]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.05-15.38.03:180][ 89]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.05-15.38.03:180][ 89]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.05-15.38.03:180][ 89]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.05-15.38.03:180][ 89]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.05-15.38.03:192][ 89]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.05-15.38.03:192][ 89]LogAudioMixer: Display: Name: LEN T24i-10 (2- NVIDIA High Definition Audio)
+[2020.03.05-15.38.03:192][ 89]LogAudioMixer: Display: Is Default: Yes
+[2020.03.05-15.38.03:192][ 89]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.05-15.38.03:192][ 89]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.05-15.38.03:192][ 89]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.05-15.38.03:192][ 89]LogAudioMixer: Display: Channel Order:
+[2020.03.05-15.38.03:192][ 89]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.05-15.38.03:192][ 89]LogAudioMixer: Display: 1: FrontRight
+[2020.03.05-15.38.03:199][ 89]LogAudioMixer: Display: Using Audio Device LEN T24i-10 (2- NVIDIA High Definition Audio)
+[2020.03.05-15.38.03:200][ 89]LogInit: FAudioDevice initialized.
+[2020.03.05-15.38.03:207][ 89]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.03.05-15.38.03:211][ 89]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent295'' but it has ComplexAsSimple collision.
+[2020.03.05-15.38.03:212][ 89]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent281'' but it has ComplexAsSimple collision.
+[2020.03.05-15.38.03:212][ 89]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent276'' but it has ComplexAsSimple collision.
+[2020.03.05-15.38.03:213][ 89]PIE: Warning: Trying to simulate physics on ''/Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent198'' but it has ComplexAsSimple collision.
+[2020.03.05-15.38.03:221][ 89]LogWorld: Bringing World /Game/Maps/UEDPIE_0_AWholeNewWorld.AWholeNewWorld up for play (max tick rate 0) at 2020.03.05-16.38.03
+[2020.03.05-15.38.03:222][ 89]LogWorld: Bringing up level for play took: 0.014715
+[2020.03.05-15.38.03:223][ 89]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.03.05-15.38.03:226][ 89]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_AWholeNewWorld 0,594
+[2020.03.05-15.38.03:226][ 89]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld' with GeneratedClass '/Game/Maps/AWholeNewWorld.AWholeNewWorld_C' with ClassGeneratedBy '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld'
+[2020.03.05-15.38.11:198][776]LogBlueprintUserMessages: [ThirdPersonCharacter_2] 
+[2020.03.05-15.38.13:950][ 26]LogBlueprintUserMessages: [Ladder_2] pls work
+[2020.03.05-15.38.25:057][ 31]LogBlueprintUserMessages: [Ladder3] pls work
+[2020.03.05-15.38.33:945][837]LogBlueprintUserMessages: [Ladder3] pls work
+[2020.03.05-15.38.41:653][533]LogBlueprintUserMessages: [Ladder9] pls work
+[2020.03.05-15.38.45:257][857]LogBlueprintUserMessages: [Ladder4] pls work
+[2020.03.05-15.38.50:898][369]LogBlueprintUserMessages: [Ladder2] pls work
+[2020.03.05-15.38.55:675][801]LogBlueprintUserMessages: [Ladder2] pls work
+[2020.03.05-15.39.06:956][825]LogBlueprintUserMessages: [Ladder2] pls work
+[2020.03.05-15.39.12:619][339]LogBlueprintUserMessages: [Ladder2] pls work
+[2020.03.05-15.39.33:936][283]LogBlueprintUserMessages: [Ladder10] pls work
+[2020.03.05-15.39.36:001][471]LogBlueprintUserMessages: [Ladder11] pls work
+[2020.03.05-15.39.54:041][110]LogBlueprintUserMessages: [Ladder5] pls work
+[2020.03.05-15.39.59:302][589]LogBlueprintUserMessages: [Ladder6] pls work
+[2020.03.05-15.40.07:627][347]LogBlueprintUserMessages: [Ladder7] pls work
+[2020.03.05-15.40.15:759][ 84]LogBlueprintUserMessages: [Ladder7] pls work
+[2020.03.05-15.40.28:364][230]LogBlueprintUserMessages: [Ladder6] pls work
+[2020.03.05-15.40.42:738][546]LogBlueprintUserMessages: [Ladder7] pls work
+[2020.03.05-15.41.00:653][168]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-15.41.00:653][168]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-15.41.00:653][168]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld' with GeneratedClass '/Game/Maps/AWholeNewWorld.AWholeNewWorld_C' with ClassGeneratedBy '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld'
+[2020.03.05-15.41.00:653][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.41.00:653][168]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_AWholeNewWorld
+[2020.03.05-15.41.00:654][168]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-15.41.00:654][168]LogWorld: UWorld::CleanupWorld for AWholeNewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.03.05-15.41.00:656][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.05-15.41.00:671][168]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-15.41.00:671][168]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld' with GeneratedClass '/Game/Maps/AWholeNewWorld.AWholeNewWorld_C' with ClassGeneratedBy '/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.AWholeNewWorld'
+[2020.03.05-15.41.00:676][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.05-15.41.00:707][168]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.05-15.41.00:710][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-15.41.00:715][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.03.05-15.41.00:758][169]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.03.05-15.41.08:266][883]MapCheck: New page: Map Check
+[2020.03.05-15.41.08:274][883]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.05-15.41.08:274][883]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.05-15.41.08:298][883]LogWorld: UWorld::CleanupWorld for AWholeNewWorld, bSessionEnded=true, bCleanupResources=false
+[2020.03.05-15.41.08:310][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent295'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:310][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent281'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:311][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent276'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:312][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent198'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:384][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent198'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:390][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent276'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:390][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent281'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:391][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent295'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:439][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent198'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:451][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent276'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:452][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent281'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:453][883]PIE: Warning: Trying to simulate physics on ''/Game/Maps/AWholeNewWorld.AWholeNewWorld:PersistentLevel.BP_DockHusetTest1_2.StaticMeshComponent295'' but it has ComplexAsSimple collision.
+[2020.03.05-15.41.08:470][883]LightingResults: New page: Lighting Build - 5 Mar 2020, 17:41:08
+[2020.03.05-15.41.08:504][883]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.05-15.41.08:540][883]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.05-15.41.08:549][883]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.05-15.41.09:069][883]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.05-15.41.09:069][883]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18048
+[2020.03.05-15.41.15:339][883]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.05-15.41.15:339][883]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.05-15.41.15:339][883]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.05-15.41.15:339][883]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.05-15.41.15:339][883]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.05-15.41.15:467][883]LogEditorBuildUtils: Build time 0:07
+[2020.03.05-15.41.15:818][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.03.05-15.41.31:560][876]Job is a success!
+[2020.03.05-15.41.31:746][877]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.026s
+[2020.03.05-15.41.31:746][877]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.05-15.41.31:746][877]LogVolumetricLightmapImport:      BrickData (all levels) 0.9Mb (trimmed 0.3Mb due to 0.010000 MinBrickError)
+[2020.03.05-15.41.31:746][877]LogVolumetricLightmapImport:      Bricks at depth
+[2020.03.05-15.41.31:746][877]LogVolumetricLightmapImport:          0: 0.5% covering 100.0% of volume
+[2020.03.05-15.41.31:746][877]LogVolumetricLightmapImport:          1: 7.7% covering 25.0% of volume
+[2020.03.05-15.41.31:746][877]LogVolumetricLightmapImport:          2: 91.8% covering 4.7% of volume
+[2020.03.05-15.41.31:746][877]LogVolumetricLightmapImport:      Bricks in each level
+[2020.03.05-15.41.31:746][877]LogVolumetricLightmapImport:          AWholeNewWorld 			 208 bricks 	 100.0% (Persistent Level)
+[2020.03.05-15.41.32:642][877]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.03.05-15.41.32:642][877]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.03.05-15.41.32:642][877]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.03.05-15.41.32:642][877]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.03.05-15.41.32:642][877]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.03.05-15.41.32:642][877]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.03.05-15.41.32:642][877]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2020.03.05-15.41.32:642][877]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2020.03.05-15.41.32:842][877]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X128)
+[2020.03.05-15.41.32:842][877]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X512)
+[2020.03.05-15.41.32:842][877]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2020.03.05-15.41.32:844][877]Lightmass on FG19091: 16.5 sec total, 224 ms importing, 20 ms setup, 3.88 sec photons, 12.3 sec processing, 0 ms extra exporting [176/176 mappings]. Threads: 1:01 min total, 25.2 sec processing.
+[2020.03.05-15.41.32:844][877]LogStaticLightingSystem: AWholeNewWorld_BuiltData storing lightmap data for 54 meshes in 6 LightmapResourceClusters (9.0 Meshes per cluster).
+[2020.03.05-15.41.32:887][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.03.05-15.41.32:905][877]LogStaticLightingSystem: Illumination: 24.4 sec (802 ms encoding lightmaps, 154 ms encoding shadowmaps)
+[2020.03.05-15.41.32:905][877]LogStaticLightingSystem: Lightmap texture memory:  12.0 MB (10.0 MB streaming, 2.0 MB non-streaming), 8 textures
+[2020.03.05-15.41.32:905][877]LogStaticLightingSystem: Shadowmap texture memory: 7.3 MB (6.0 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.03.05-15.41.33:353][877]DumpUnbuiltLightIteractions
+[2020.03.05-15.41.33:353][877]Lights with unbuilt interactions: 0
+[2020.03.05-15.41.33:353][877]
+[2020.03.05-15.41.33:353][877]Primitives with unbuilt interactions: 0
+[2020.03.05-15.41.33:468][878]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.05-15.41.33:469][878]MapCheck: New page: AWholeNewWorld - 5 Mar 2020, 17:41:33
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: RoomStuff_fbx_Collection_floor_5 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: RoomStuff_fbx_Collection_floor2 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: RoomStuff_fbx_Collection_floor3 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: RoomStuff_fbx_Collection_floor4 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: RoomStuff_fbx_Collection_Bookshelf_14 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: RoomStuff_fbx_Collection_Rugg_20 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: RoomStuff_fbx_Collection_Table_26 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: RoomStuff_fbx_Collection_Bookshelf2 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: RoomStuff_fbx_Collection_Wall_1x2_12 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: RoomStuff_fbx_Collection_Wall_1x2_44 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: RoomStuff_fbx_Collection_Table2 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:469][878]MapCheck: Warning: bed_82 Static mesh actor has NULL StaticMesh property 
+[2020.03.05-15.41.33:470][878]MapCheck: Warning: Floor10 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.03.05-15.41.33:470][878]MapCheck: Warning: Floor12 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.03.05-15.41.33:470][878]MapCheck: Warning: Floor13 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.03.05-15.41.33:470][878]MapCheck: Warning: TransperantWall Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2020.03.05-15.41.33:470][878]MapCheck: Map check complete: 0 Error(s), 16 Warning(s), took 1,348ms to complete.
+[2020.03.05-15.42.07:452][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.03.05-15.42.07:787][146]LogSavePackage: Moving '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Saved/AWholeNewWorld624149104E1F1ED1B033FFB3B93DF9AA.tmp' to '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/Maps/AWholeNewWorld.umap'
+[2020.03.05-15.42.08:034][146]LogSavePackage: Moving '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Saved/AWholeNewWorld_BuiltDataA062F398477B205C46CA79896480CDC9.tmp' to '../../../../../../Users/theodor.tolstoy/Documents/GitHub/TjillevippenTheory1.2/Content/Maps/AWholeNewWorld_BuiltData.uasset'
+[2020.03.05-15.42.08:047][146]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.05-15.42.08:047][146]LogContentValidation: Display: Validating World /Game/Maps/AWholeNewWorld.AWholeNewWorld
+[2020.03.05-15.42.08:047][146]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/AWholeNewWorld_BuiltData.AWholeNewWorld_BuiltData
